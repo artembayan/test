@@ -1,0 +1,45 @@
+
+h1{
+	font-family: helvetica;
+}
+.card{
+	
+	border: 1px;
+	height: 355px;
+	width: 255px;
+
+}
+
+.top-card{
+	
+	height: 10%;
+	background: #414148;
+}
+
+.top-card p{
+	margin-left: 0px;
+	margin-top: 10px;
+	color: white;
+	text-align: center;
+	line-height: 2.1;
+	font-family: Helvetica;
+}
+
+.mid-card{
+	background: #f2ee05;
+	height: 80%;
+}
+
+.mid-card p {
+	padding-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Helvetica;
+}
+
+.bottom-card{
+	height: 10%;
+	background: #414148;
+}
